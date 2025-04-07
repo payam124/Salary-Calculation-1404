@@ -7,7 +7,7 @@
 
 ## لینک دانلود
 
-https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.9
+https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.95
 
 
 ## مقدمه
@@ -66,7 +66,7 @@ https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.9
 
 ## Download Link
 
-https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.9
+https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.95
 
 ## Introduction
 
