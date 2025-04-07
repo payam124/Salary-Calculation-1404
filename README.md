@@ -44,6 +44,16 @@ https://github.com/payam124/Salary-Calculation-1404/releases/tag/v0.9
 - حقوق و دستمزد مشمول مالیات، جمع کل مزایای منهای دو هفتم بیمه پرداختی است. این موضوع بر اساس ماده 137 قانون مالیات‌های مستقیم و بند ۲ بخشنامه 4385/211/19418 مورخ 1383/11/07 سازمان امور مالیاتی است. این موضوع اغلب از نگاه افرادی که می‌خواهند خود سهم مالیات را حساب کنند به دور می‌ماند
 - بیمه تامین اجتماعی سقف دارد. حداکثر میزانی حق بیمه معادل بیمه 7 برابر حقوق پایه است و اگر حقوق شما بیشتر از آن باشه، دیگر از شما بیمه کسر نخواهد شد.
 
+# تغییرات
+
+## نسخه 0.95
+
+- اصلاح سقف براکت پنجم مالیات 1404. (ارجاع: [اینجا](https://tadbirtp.ir/salary-tax-1404/))
+- اصلاح مبلغ بن کارگری در سال 1403 (برای مقایسه)
+- اعمال افزایش درصدی حقوق به بخش سنوات سالهای قبل
+- مستثنا کردن حق اولاد از حق بیمه تامین اجتماعی (ارجاع: [اینجا](https://bidbarg.net/blog/tax-sso-deductible/))
+- کسر کامل حق بیمه از مجموعه درآمد ناخالص برای محاسبه درآمد مشمول مالیات (پیش‌تر دو هفتم حق بیمه کسر می‌شد) (ارجاع: [اینجا](https://www.kanazspid.ir/acc/taxaccountingeducation/502-%D8%A8%D8%AE%D8%B4%D9%86%D8%A7%D9%85%D9%87-%DA%A9%D8%B3%D8%B1-7--%D8%A8%DB%8C%D9%85%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%85%D8%B4%D9%85%D9%88%D9%84-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%AD%D9%82%D9%88%D9%82.html))
+
 ## مجوز استفاده
 
 - این فایل تحت لیسانس GPL 3.0 منتشر می‌شود.
@@ -91,6 +101,14 @@ This Excel sheet is designed to help managers and employees who seek transparenc
 - It is assumed that your income is consistent throughout the year. For instance, if you enter 50 hours of overtime, the sheet assumes you’ll work 50 hours of overtime every month.
 - **Taxable salary** is calculated as total benefits minus **2/7 of your insurance contribution**, based on Article 137 of the Direct Tax Code and clause 2 of circular 4385/211/19418 dated 2005-01-27 from the Tax Authority. This is often overlooked when individuals try to calculate their own taxes.
 - **Social security insurance has a cap**: It is only deducted from salaries up to **7× the base wage**. Any income beyond that is not subject to further insurance deductions.
+
+## Version 0.95
+
+- Updated the max for the fifth tax bracket for the year 1404 (2025)
+- Corrected the Bon-e-Kargari (benefit) amount for the year 1403 (2024) for comparison purposes
+- Applied percentage-based salary increases to previous years’ service benefits
+- Exempted child allowance from Social Security insurance deductions
+- Changed the income tax calculation to deduct the **full amount** of social security insurance from gross income (previously only two-sevenths was deducted) to use as “Taxable Income”
 
 ## License
 
